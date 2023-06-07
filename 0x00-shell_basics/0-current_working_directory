@@ -1,5 +1,2 @@
 #!/bin/bash
-
-current_dur=$(pwd)
-
- echo "$current_dur"
+pwd
