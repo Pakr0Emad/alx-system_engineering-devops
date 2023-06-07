@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "input filename"
+current_dur=$(pwd)
 
-
-
-pwd "filename" 
+ echo "$current_dur"
