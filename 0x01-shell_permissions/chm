@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "filename"
+
+read var
+
+chmod +x "${var}"
+
+
