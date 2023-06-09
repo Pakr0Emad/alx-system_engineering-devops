@@ -1,1 +1,1 @@
-permissions code day
+permissions
